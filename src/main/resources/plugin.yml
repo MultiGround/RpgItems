@@ -1,0 +1,5 @@
+name: rpgItems
+version: '${version}'
+main: org.multiground.plugins.rpgitems
+api-version: 1.17
+depend: [CommandAPI]
